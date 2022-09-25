@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>about me on 소난의 블로그</title>
+    <link>https://sonanlee.com/tags/about-me/</link>
+    <description>Recent content in about me on 소난의 블로그</description>
+    <image>
+      <url>https://sonanlee.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sonanlee.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sonanlee.com/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://sonanlee.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sonanlee.com/about/</guid>
+      <description>프롭테크 회사에서 원격근무로 일하고 있습니다.
+소난이라는 닉네임을 많이 쓰고, 여러가지 게임도 즐겨합니다.
+게임프로그래머이며, 서버-클라 관계없이 관심을 많이 갖고 있습니다.
+최근엔 게임 개발에 있어서 조직 관리와 애자일 방법론에 많은 관심을 갖고 있습니다.
+자세한 내용은 저의 CV(updated at Jan, 2022)를 참고해주세요.
+경력과 경험 2021.9 - Now,
+가상 오피스 Soma, 유니티
+클라이언트 프로그래머, Metapolis, 직방(Zigbang)
+2021.2 - 2021.8,
+비공개 프로젝트, 언리얼 엔진4
+게임 클라이언트 프로그래머, NR Seed, 엔씨소프트
+2018.3 - 2021.1,
+비공개 메타버스 프로젝트, 유니티</description>
+    </item>
+    
+  </channel>
+</rss>

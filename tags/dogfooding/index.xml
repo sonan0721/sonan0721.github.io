@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dogfooding on 소난의 블로그</title>
+    <link>https://sonanlee.com/tags/dogfooding/</link>
+    <description>Recent content in Dogfooding on 소난의 블로그</description>
+    <image>
+      <url>https://sonanlee.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sonanlee.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Dec 2020 08:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/dogfooding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《나는 아마존에서 미래를 다녔다》를 읽고,</title>
+      <link>https://sonanlee.com/posts/%EB%82%98%EB%8A%94-%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EB%8B%A4%EB%85%94%EB%8B%A4%EB%A5%BC-%EC%9D%BD%EA%B3%A0/</link>
+      <pubDate>Sat, 12 Dec 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://sonanlee.com/posts/%EB%82%98%EB%8A%94-%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EB%8B%A4%EB%85%94%EB%8B%A4%EB%A5%BC-%EC%9D%BD%EA%B3%A0/</guid>
+      <description>세계에서 제일 혁신적인 기업 세계에서 가장 혁신적인 회사라고 하면 떠오르는 기업에 아마존이 있다. 세상에서 가장 고객 중심적인 회사라는 미션 스테이트먼트를 가진 아마존에 대한 나의 첫기억은 인터넷으로 전공책을 사던 서점이였다. 그리고선 꽤 오랜시간이 흘렀고, 아마존은 어느샌가 모든것을 파고, 어디로든(그게, 미국 -&amp;gt; 한국이던) 배달해주는 온라인 마켓이 되어 있었다. 또한, AWS(Amazon Web Service)라는 IT인이라면 반드시 알아야 하는 세계적인 클라우드 플랫폼 회사가 되어 있었다.
+to be Earth’s most customer centric company.
+Amazon UK : Our Mission (아마존 미션 스테이트먼트)</description>
+    </item>
+    
+  </channel>
+</rss>
