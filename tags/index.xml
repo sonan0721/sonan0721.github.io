@@ -5,8 +5,8 @@
     <link>https://sonanlee.com/tags/</link>
     <description>Recent content in Tags on 소난의 블로그</description>
     <image>
-      <url>https://sonanlee.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://sonanlee.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
+      <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 25 Jan 2022 14:53:45 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
