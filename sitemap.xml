@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sonanlee.com/tags/politics/</loc>
+    <lastmod>2022-10-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/posts/</loc>
+    <lastmod>2022-10-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/</loc>
+    <lastmod>2022-10-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/posts/developer-politics/</loc>
+    <lastmod>2022-10-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/</loc>
+    <lastmod>2022-10-10T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sonanlee.com/posts/2022-best-programming-language/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
@@ -17,9 +32,6 @@
     <loc>https://sonanlee.com/tags/javascript/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/posts/</loc>
-    <lastmod>2022-01-25T14:53:45+00:00</lastmod>
-  </url><url>
     <loc>https://sonanlee.com/tags/programming/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
@@ -32,16 +44,10 @@
     <loc>https://sonanlee.com/tags/react-native/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/</loc>
-    <lastmod>2022-01-25T14:53:45+00:00</lastmod>
-  </url><url>
     <loc>https://sonanlee.com/tags/thinking/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/typescript/</loc>
-    <lastmod>2022-01-25T14:53:45+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/careerly/</loc>
