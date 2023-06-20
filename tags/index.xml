@@ -11,34 +11,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 12 Oct 2022 00:05:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Challenge</title>
-      <link>https://sonanlee.com/tags/challenge/</link>
+      <title>futureofwork</title>
+      <link>https://sonanlee.com/tags/futureofwork/</link>
       <pubDate>Wed, 12 Oct 2022 00:05:00 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/challenge/</guid>
+      <guid>https://sonanlee.com/tags/futureofwork/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Future-of-Work</title>
-      <link>https://sonanlee.com/tags/future-of-work/</link>
+      <title>remotework</title>
+      <link>https://sonanlee.com/tags/remotework/</link>
       <pubDate>Wed, 12 Oct 2022 00:05:00 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/future-of-work/</guid>
+      <guid>https://sonanlee.com/tags/remotework/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Remote-Work</title>
-      <link>https://sonanlee.com/tags/remote-work/</link>
+      <title>원격근무</title>
+      <link>https://sonanlee.com/tags/%EC%9B%90%EA%B2%A9%EA%B7%BC%EB%AC%B4/</link>
       <pubDate>Wed, 12 Oct 2022 00:05:00 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/remote-work/</guid>
+      <guid>https://sonanlee.com/tags/%EC%9B%90%EA%B2%A9%EA%B7%BC%EB%AC%B4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Politics</title>
+      <title>politics</title>
       <link>https://sonanlee.com/tags/politics/</link>
       <pubDate>Mon, 10 Oct 2022 12:00:00 +0000</pubDate>
       
@@ -56,7 +56,7 @@
     </item>
     
     <item>
-      <title>Developer</title>
+      <title>developer</title>
       <link>https://sonanlee.com/tags/developer/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>Flutter</title>
+      <title>flutter</title>
       <link>https://sonanlee.com/tags/flutter/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -74,7 +74,7 @@
     </item>
     
     <item>
-      <title>Javascript</title>
+      <title>javascript</title>
       <link>https://sonanlee.com/tags/javascript/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -83,7 +83,7 @@
     </item>
     
     <item>
-      <title>Programming</title>
+      <title>programming</title>
       <link>https://sonanlee.com/tags/programming/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -92,7 +92,7 @@
     </item>
     
     <item>
-      <title>Python</title>
+      <title>python</title>
       <link>https://sonanlee.com/tags/python/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -101,7 +101,7 @@
     </item>
     
     <item>
-      <title>React</title>
+      <title>react</title>
       <link>https://sonanlee.com/tags/react/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -110,16 +110,16 @@
     </item>
     
     <item>
-      <title>React-Native</title>
-      <link>https://sonanlee.com/tags/react-native/</link>
+      <title>reactnative</title>
+      <link>https://sonanlee.com/tags/reactnative/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/react-native/</guid>
+      <guid>https://sonanlee.com/tags/reactnative/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thinking</title>
+      <title>thinking</title>
       <link>https://sonanlee.com/tags/thinking/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -128,7 +128,7 @@
     </item>
     
     <item>
-      <title>Typescript</title>
+      <title>typescript</title>
       <link>https://sonanlee.com/tags/typescript/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
       
@@ -137,7 +137,7 @@
     </item>
     
     <item>
-      <title>Careerly</title>
+      <title>careerly</title>
       <link>https://sonanlee.com/tags/careerly/</link>
       <pubDate>Sun, 20 Jun 2021 13:39:23 +0000</pubDate>
       
@@ -146,7 +146,7 @@
     </item>
     
     <item>
-      <title>Lecture</title>
+      <title>lecture</title>
       <link>https://sonanlee.com/tags/lecture/</link>
       <pubDate>Sun, 20 Jun 2021 13:39:23 +0000</pubDate>
       
@@ -155,7 +155,7 @@
     </item>
     
     <item>
-      <title>Framework</title>
+      <title>framework</title>
       <link>https://sonanlee.com/tags/framework/</link>
       <pubDate>Sun, 25 Apr 2021 02:15:08 +0000</pubDate>
       
@@ -164,25 +164,25 @@
     </item>
     
     <item>
-      <title>Product management</title>
-      <link>https://sonanlee.com/tags/product-management/</link>
+      <title>productmanagement</title>
+      <link>https://sonanlee.com/tags/productmanagement/</link>
       <pubDate>Sun, 25 Apr 2021 02:15:08 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/product-management/</guid>
+      <guid>https://sonanlee.com/tags/productmanagement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Game Development</title>
-      <link>https://sonanlee.com/tags/game-development/</link>
+      <title>gamedevelopment</title>
+      <link>https://sonanlee.com/tags/gamedevelopment/</link>
       <pubDate>Fri, 02 Apr 2021 15:00:21 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/game-development/</guid>
+      <guid>https://sonanlee.com/tags/gamedevelopment/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Leadership</title>
+      <title>leadership</title>
       <link>https://sonanlee.com/tags/leadership/</link>
       <pubDate>Fri, 02 Apr 2021 15:00:21 +0000</pubDate>
       
@@ -191,7 +191,7 @@
     </item>
     
     <item>
-      <title>Management</title>
+      <title>management</title>
       <link>https://sonanlee.com/tags/management/</link>
       <pubDate>Fri, 02 Apr 2021 15:00:21 +0000</pubDate>
       
@@ -200,7 +200,7 @@
     </item>
     
     <item>
-      <title>Books</title>
+      <title>books</title>
       <link>https://sonanlee.com/tags/books/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
       
@@ -209,25 +209,25 @@
     </item>
     
     <item>
-      <title>Product Manager</title>
-      <link>https://sonanlee.com/tags/product-manager/</link>
+      <title>productmanager</title>
+      <link>https://sonanlee.com/tags/productmanager/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/product-manager/</guid>
+      <guid>https://sonanlee.com/tags/productmanager/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Product Owner</title>
-      <link>https://sonanlee.com/tags/product-owner/</link>
+      <title>productowner</title>
+      <link>https://sonanlee.com/tags/productowner/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
       
-      <guid>https://sonanlee.com/tags/product-owner/</guid>
+      <guid>https://sonanlee.com/tags/productowner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vision</title>
+      <title>vision</title>
       <link>https://sonanlee.com/tags/vision/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
       
@@ -236,34 +236,7 @@
     </item>
     
     <item>
-      <title>Kotlin</title>
-      <link>https://sonanlee.com/tags/kotlin/</link>
-      <pubDate>Sun, 10 Jan 2021 21:00:00 +0000</pubDate>
-      
-      <guid>https://sonanlee.com/tags/kotlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rust</title>
-      <link>https://sonanlee.com/tags/rust/</link>
-      <pubDate>Sun, 10 Jan 2021 21:00:00 +0000</pubDate>
-      
-      <guid>https://sonanlee.com/tags/rust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FIRE</title>
-      <link>https://sonanlee.com/tags/fire/</link>
-      <pubDate>Fri, 18 Dec 2020 07:00:00 +0000</pubDate>
-      
-      <guid>https://sonanlee.com/tags/fire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Innovation</title>
+      <title>innovation</title>
       <link>https://sonanlee.com/tags/innovation/</link>
       <pubDate>Fri, 18 Dec 2020 07:00:00 +0000</pubDate>
       
@@ -272,7 +245,16 @@
     </item>
     
     <item>
-      <title>Amazon</title>
+      <title>파이어족</title>
+      <link>https://sonanlee.com/tags/%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%A1%B1/</link>
+      <pubDate>Fri, 18 Dec 2020 07:00:00 +0000</pubDate>
+      
+      <guid>https://sonanlee.com/tags/%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%A1%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
       <link>https://sonanlee.com/tags/amazon/</link>
       <pubDate>Sat, 12 Dec 2020 08:00:00 +0000</pubDate>
       
@@ -281,7 +263,7 @@
     </item>
     
     <item>
-      <title>Dogfooding</title>
+      <title>dogfooding</title>
       <link>https://sonanlee.com/tags/dogfooding/</link>
       <pubDate>Sat, 12 Dec 2020 08:00:00 +0000</pubDate>
       

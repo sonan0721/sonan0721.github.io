@@ -22,5 +22,16 @@
 나 또한, 2021년동안 다양한 곳에서 감사하게도 불러주셔서 꽤 많은 강의를 다녔었는데, 취업을 위한 프로그래밍 뿐만 아니라 기술에 대한 지식 습득을 위해 프로그래밍을 배우는 분들도 있었다.</description>
     </item>
     
+    <item>
+      <title>2021년 배우면 좋은 프로그래밍 언어</title>
+      <link>https://sonanlee.com/posts/2021-best-programming-language/</link>
+      <pubDate>Sun, 10 Jan 2021 21:00:00 +0000</pubDate>
+      
+      <guid>https://sonanlee.com/posts/2021-best-programming-language/</guid>
+      <description>1 🧡 이 글은 게임 개발자 관점에서 작성된 글입니다. 어떤 언어를 배우는게 좋을까? 2021년을 시작하면서 새로운 언어를 배우려고 조사하는 김에 작성하기 시작했다. 아마도, 게임 프로그래머라면 주로 다루던 언어는 C++/C# 등과 같은 C계열의 언어였을텐데, 조금 새로운 바람이 필요한 분들에게 도움이 되길 기대한다.
+Python TIOBE Index For Python
+대부분의 프로그래밍 언어 랭킹 사이트에서 파이썬은 압도적으로 높은 순위를 자랑한다. 2021년 1월 현재 PYPL 1위, TOIBE 3위로 랭크되어 있으며, 이제 프로그래머라면 반드시 알아야하는 언어가 되었다.</description>
+    </item>
+    
   </channel>
 </rss>

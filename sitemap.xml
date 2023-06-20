@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sonanlee.com/tags/challenge/</loc>
-    <lastmod>2022-10-12T00:05:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/tags/future-of-work/</loc>
+    <loc>https://sonanlee.com/tags/futureofwork/</loc>
     <lastmod>2022-10-12T00:05:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/</loc>
     <lastmod>2022-10-12T00:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/remote-work/</loc>
+    <loc>https://sonanlee.com/tags/remotework/</loc>
     <lastmod>2022-10-12T00:05:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/</loc>
     <lastmod>2022-10-12T00:05:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/</loc>
+    <lastmod>2022-10-12T00:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/%EC%9B%90%EA%B2%A9%EA%B7%BC%EB%AC%B4/</loc>
     <lastmod>2022-10-12T00:05:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/remote-work-challenge-part1/</loc>
@@ -53,7 +53,7 @@
     <loc>https://sonanlee.com/tags/react/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/react-native/</loc>
+    <loc>https://sonanlee.com/tags/reactnative/</loc>
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/thinking/</loc>
@@ -74,7 +74,7 @@
     <loc>https://sonanlee.com/tags/framework/</loc>
     <lastmod>2021-04-25T02:15:08+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/product-management/</loc>
+    <loc>https://sonanlee.com/tags/productmanagement/</loc>
     <lastmod>2021-04-25T02:15:08+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/product-framework-proven-better-new/</loc>
@@ -83,7 +83,7 @@
     <loc>https://sonanlee.com/posts/gdc2017-game-studio-leadership/</loc>
     <lastmod>2021-04-02T15:00:21+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/game-development/</loc>
+    <loc>https://sonanlee.com/tags/gamedevelopment/</loc>
     <lastmod>2021-04-02T15:00:21+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/leadership/</loc>
@@ -98,22 +98,16 @@
     <loc>https://sonanlee.com/tags/books/</loc>
     <lastmod>2021-01-13T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/product-manager/</loc>
+    <loc>https://sonanlee.com/tags/productmanager/</loc>
     <lastmod>2021-01-13T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/product-owner/</loc>
+    <loc>https://sonanlee.com/tags/productowner/</loc>
     <lastmod>2021-01-13T21:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/vision/</loc>
     <lastmod>2021-01-13T21:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/2021-best-programming-language/</loc>
-    <lastmod>2021-01-10T21:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/tags/kotlin/</loc>
-    <lastmod>2021-01-10T21:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/tags/rust/</loc>
     <lastmod>2021-01-10T21:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/library/</loc>
@@ -125,10 +119,10 @@
     <loc>https://sonanlee.com/posts/reading-book-creativecurve/</loc>
     <lastmod>2020-12-18T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/fire/</loc>
+    <loc>https://sonanlee.com/tags/innovation/</loc>
     <lastmod>2020-12-18T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/innovation/</loc>
+    <loc>https://sonanlee.com/tags/%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%A1%B1/</loc>
     <lastmod>2020-12-18T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/reading-book-amazon/</loc>

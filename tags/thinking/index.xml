@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thinking on 소난의 블로그</title>
+    <title>thinking on 소난의 블로그</title>
     <link>https://sonanlee.com/tags/thinking/</link>
-    <description>Recent content in Thinking on 소난의 블로그</description>
+    <description>Recent content in thinking on 소난의 블로그</description>
     <image>
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
@@ -32,6 +32,17 @@
 The Framework 프로덕트의 성공에는 과학적 접근과, 감정의 컨트롤이 필요합니다. 제품을 만드는 초기 단계는 가장 흥미롭고 중요한 시기이고, 다양한 접근법이 있습니다. 오늘 소개시켜드릴 주제는 해당 접근 법 중 하나인 &amp;ldquo;Proven, Better, New&amp;quot;라는 프레임워크 입니다. 사실 Proven, Better, New 는 1960년 제약 업종에서부터 시작했습니다.
 각 키워드의 정의는 아래와 같습니다.
 이미 있는 기능은 Proven, 다른 프로덕트에도 있는 것을 의미합니다.</description>
+    </item>
+    
+    <item>
+      <title>2021년 배우면 좋은 프로그래밍 언어</title>
+      <link>https://sonanlee.com/posts/2021-best-programming-language/</link>
+      <pubDate>Sun, 10 Jan 2021 21:00:00 +0000</pubDate>
+      
+      <guid>https://sonanlee.com/posts/2021-best-programming-language/</guid>
+      <description>1 🧡 이 글은 게임 개발자 관점에서 작성된 글입니다. 어떤 언어를 배우는게 좋을까? 2021년을 시작하면서 새로운 언어를 배우려고 조사하는 김에 작성하기 시작했다. 아마도, 게임 프로그래머라면 주로 다루던 언어는 C++/C# 등과 같은 C계열의 언어였을텐데, 조금 새로운 바람이 필요한 분들에게 도움이 되길 기대한다.
+Python TIOBE Index For Python
+대부분의 프로그래밍 언어 랭킹 사이트에서 파이썬은 압도적으로 높은 순위를 자랑한다. 2021년 1월 현재 PYPL 1위, TOIBE 3위로 랭크되어 있으며, 이제 프로그래머라면 반드시 알아야하는 언어가 되었다.</description>
     </item>
     
   </channel>
