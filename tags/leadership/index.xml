@@ -9,7 +9,18 @@
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Apr 2021 15:00:21 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>가장 늦게 퇴근하는 리더 vs 가장 빨리 퇴근하는 리더</title>
+      <link>https://sonanlee.com/posts/typeofleader/</link>
+      <pubDate>Tue, 10 Jan 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://sonanlee.com/posts/typeofleader/</guid>
+      <description>게임 업계를 다니면서 만났던 약간은 극단의 두 종류의 리더분이 있습니다.
+가장 늦게 퇴근하는 리더 한 분은 가장 늦게 퇴근하는 리더로, 특별한 일이 없다면 새벽이 되었건 철야가 되었건 끝까지 남아서 함께하는 리더 였습니다. 그 리더의 신조는 함께하는 리더 였습니다.
+그분은 함께한다는 경험을 부여해 주고, 언제든 3분 대기조처럼 대응을 해주셨습니다. 때로 작업이 너무 늦어지거나, 다들 너무 바쁘다고 판단이 들면 간단한 버그나 기능을 직접 개발하시기도 했습니다. 지금 생각해 보면 그 리더의 워라밸은 아마도 최악이었을 것입니다.</description>
+    </item>
+    
     <item>
       <title>게임은 어떻게 혁신을 달성할까?, 게임 스튜디오 리더쉽(GDC2017)</title>
       <link>https://sonanlee.com/posts/gdc2017-game-studio-leadership/</link>
