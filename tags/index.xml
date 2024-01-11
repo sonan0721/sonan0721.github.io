@@ -10,11 +10,11 @@
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jan 2024 09:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>https://sonanlee.com/tags/blog/</link>
-      <pubDate>Tue, 10 Jan 2023 09:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 09:00:00 +0900</pubDate>
       
       <guid>https://sonanlee.com/tags/blog/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>leadership</title>
       <link>https://sonanlee.com/tags/leadership/</link>
-      <pubDate>Tue, 10 Jan 2023 09:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 09:00:00 +0900</pubDate>
       
       <guid>https://sonanlee.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>organizational-culture</title>
+      <link>https://sonanlee.com/tags/organizational-culture/</link>
+      <pubDate>Thu, 11 Jan 2024 09:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/tags/organizational-culture/</guid>
       <description></description>
     </item>
     

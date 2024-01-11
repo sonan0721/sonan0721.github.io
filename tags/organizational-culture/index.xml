@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog on 소난의 블로그</title>
-    <link>https://sonanlee.com/tags/blog/</link>
-    <description>Recent content in blog on 소난의 블로그</description>
+    <title>organizational-culture on 소난의 블로그</title>
+    <link>https://sonanlee.com/tags/organizational-culture/</link>
+    <description>Recent content in organizational-culture on 소난의 블로그</description>
     <image>
       <title>소난의 블로그</title>
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 09:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jan 2024 09:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/organizational-culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>수평적 조직구조는 죽었다.</title>
       <link>https://sonanlee.com/posts/flatlandisdead/</link>
@@ -24,17 +24,6 @@
 제가 경험한 수평적 조직구조 제가 수평적 조직구조를 맹신하게 된 건 Valve의 신입사원 안내서부터 였을 겁니다. 10년 전쯤 유행했던 건데 기억하시는 분들이 계실지 모르겠네요.
 수평적 구조에 대한 로망을 갖고 들어간 게임 업계에서 처음으로 수평적 조직구조를 경험했던 저는 꽤 충격을 많이 받았습니다.
 &amp;ldquo;와, 모두가 자유롭게 이야기하고, 모두가 아이디어를 낼 수 있네?</description>
-    </item>
-    
-    <item>
-      <title>가장 늦게 퇴근하는 리더 vs 가장 빨리 퇴근하는 리더</title>
-      <link>https://sonanlee.com/posts/typeofleader/</link>
-      <pubDate>Wed, 10 Jan 2024 09:00:00 +0000</pubDate>
-      
-      <guid>https://sonanlee.com/posts/typeofleader/</guid>
-      <description>게임 업계를 다니면서 만났던 약간은 극단의 두 종류의 리더분이 있습니다.
-가장 늦게 퇴근하는 리더 한 분은 가장 늦게 퇴근하는 리더로, 특별한 일이 없다면 새벽이 되었건 철야가 되었건 끝까지 남아서 함께하는 리더 였습니다. 그 리더의 신조는 함께하는 리더 였습니다.
-그분은 함께한다는 경험을 부여해 주고, 언제든 3분 대기조처럼 대응을 해주셨습니다. 때로 작업이 너무 늦어지거나, 다들 너무 바쁘다고 판단이 들면 간단한 버그나 기능을 직접 개발하시기도 했습니다. 지금 생각해 보면 그 리더의 워라밸은 아마도 최악이었을 것입니다.</description>
     </item>
     
   </channel>
