@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sonanlee.com/tags/blog/</loc>
-    <lastmod>2024-04-27T07:00:00+00:00</lastmod>
+    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/lecture/</loc>
+    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/posts/</loc>
+    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/react/</loc>
+    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/</loc>
+    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/posts/react-becomes-core-curriculum/</loc>
+    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/</loc>
+    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/inspiring/</loc>
     <lastmod>2024-04-27T07:00:00+00:00</lastmod>
@@ -11,20 +29,8 @@
     <loc>https://sonanlee.com/tags/portfolio/</loc>
     <lastmod>2024-04-27T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/posts/</loc>
-    <lastmod>2024-04-27T07:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/tags/</loc>
-    <lastmod>2024-04-27T07:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/</loc>
-    <lastmod>2024-04-27T07:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sonanlee.com/posts/my-first-portfolio/</loc>
     <lastmod>2024-04-27T07:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/tags/react/</loc>
-    <lastmod>2024-04-10T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/why-you-learn-react/</loc>
     <lastmod>2024-04-10T09:00:00+00:00</lastmod>
@@ -90,9 +96,6 @@
     <lastmod>2022-01-25T14:53:45+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/careerly/</loc>
-    <lastmod>2021-06-20T13:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/tags/lecture/</loc>
     <lastmod>2021-06-20T13:39:23+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/careerlyskillup-lecture/</loc>
