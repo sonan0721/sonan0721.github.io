@@ -10,7 +10,19 @@
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Apr 2024 09:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 07:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>저의 첫 게임 회사 포트폴리오</title>
+      <link>https://sonanlee.com/posts/my-first-portfolio/</link>
+      <pubDate>Sat, 27 Apr 2024 07:00:00 +0000</pubDate>
+      
+      <guid>https://sonanlee.com/posts/my-first-portfolio/</guid>
+      <description>제 첫번째 포트폴리오는 실패율 100%였습니다. 제가 처음으로 취업을 준비하던 시절, 저는 대략 20개의 게임 회사에 지원서를 썼고, 모두 떨어졌습니다. 사실 지금 생각하면 떨어지는 게 당연했던 것 같습니다. 그때 저의 포트폴리오는 작은 Docs 파일 하나였고, 거기엔 제가 만든 게임 제목과 스크린샷, 그리고 짧은 설명이 한두 줄 있었습니다.
+물론 포트폴리오 외에도 제가 매력적이지 않다는 생각을 많이 했던 것 같습니다.
+네.. 제 첫 번째 포트폴리오는 100% 실패율을 보인 실패작이었습니다.
+포트폴리오의 재구성 그래서 그때부터 저는 선배/후배/동기를 따지지 않고, 많은 지인들에게 제 포트폴리오와 이력서를 보여주고 다녔고, 물어보곤 했습니다.</description>
+    </item>
+    
     <item>
       <title>개발자에게 영감을 주는 리액트</title>
       <link>https://sonanlee.com/posts/why-you-learn-react/</link>
