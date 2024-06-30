@@ -10,7 +10,18 @@
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Jan 2021 21:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 09:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>더 나은 코드를 작성하기 위한 가이드북 《읽기 쉬운 코드》</title>
+      <link>https://sonanlee.com/posts/reading-book-codethat/</link>
+      <pubDate>Sun, 30 Jun 2024 09:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/posts/reading-book-codethat/</guid>
+      <description>모범적인 코드는 무엇일까? 프로그래머로 일을 하다보면 개발자들끼리 모범적인 코드에 대해 논쟁 하게 되는 경우가 더러 있습니다.
+&amp;lsquo;어떤 구조가 더 좋다.&amp;rsquo; 혹은 &amp;lsquo;이건 실제로 내가 해본 경험이 있다&amp;lsquo;등의 다양한 이유로 시작해서 누군가가 내 코드가 더 좋은 코드라고 주장을 한다거나, 당신이 작성한 코드가 모범적이지 않다고 하는 경우, 혹은 서로의 구조를 주장하다가 기분이 상하는 경우도 있습니다.
+그래서 많은 코드리뷰 책이나 개발 문화 관련 책에서 &amp;ldquo;비자아적 프로그래밍(감정을 배제하고)을 해라&amp;rdquo;, &amp;ldquo;지속 가능하게 코드를 짜라&amp;quot;등의 이야기를 하곤 합니다.</description>
+    </item>
+    
     <item>
       <title>프로덕트의 가치를 읽는다. 《인스파이어드》</title>
       <link>https://sonanlee.com/posts/reading-book-inspired/</link>

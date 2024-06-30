@@ -2,29 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sonanlee.com/tags/blog/</loc>
-    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+    <loc>https://sonanlee.com/tags/books/</loc>
+    <lastmod>2024-06-30T09:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/lecture/</loc>
-    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
+    <loc>https://sonanlee.com/tags/cdoe/</loc>
+    <lastmod>2024-06-30T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/guide/</loc>
+    <lastmod>2024-06-30T09:00:00+09:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/</loc>
+    <lastmod>2024-06-30T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/</loc>
+    <lastmod>2024-06-30T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/posts/reading-book-codethat/</loc>
+    <lastmod>2024-06-30T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/</loc>
+    <lastmod>2024-06-30T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/blog/</loc>
+    <lastmod>2024-05-04T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/inspiring/</loc>
+    <lastmod>2024-05-04T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/portfolio/</loc>
+    <lastmod>2024-05-04T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/posts/my-first-portfolio/</loc>
+    <lastmod>2024-05-04T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://sonanlee.com/tags/lecture/</loc>
     <lastmod>2024-04-27T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/tags/react/</loc>
     <lastmod>2024-04-27T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/</loc>
-    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sonanlee.com/posts/react-becomes-core-curriculum/</loc>
     <lastmod>2024-04-27T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/</loc>
-    <lastmod>2024-04-27T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sonanlee.com/tags/inspiring/</loc>
-    <lastmod>2024-04-10T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sonanlee.com/posts/why-you-learn-react/</loc>
     <lastmod>2024-04-10T09:00:00+00:00</lastmod>
@@ -113,9 +131,6 @@
     <loc>https://sonanlee.com/posts/gdc2017-game-studio-leadership/</loc>
     <lastmod>2021-04-02T15:00:21+00:00</lastmod>
   </url><url>
-    <loc>https://sonanlee.com/tags/books/</loc>
-    <lastmod>2021-01-13T21:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sonanlee.com/tags/productmanager/</loc>
     <lastmod>2021-01-13T21:00:00+00:00</lastmod>
   </url><url>
@@ -165,9 +180,5 @@
     <loc>https://sonanlee.com/archives/</loc>
   </url><url>
     <loc>https://sonanlee.com/categories/</loc>
-  </url><url>
-    <loc>https://sonanlee.com/tags/portfolio/</loc>
-  </url><url>
-    <loc>https://sonanlee.com/posts/my-first-portfolio/</loc>
   </url>
 </urlset>

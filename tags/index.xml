@@ -10,13 +10,58 @@
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Apr 2024 15:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 09:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>books</title>
+      <link>https://sonanlee.com/tags/books/</link>
+      <pubDate>Sun, 30 Jun 2024 09:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cdoe</title>
+      <link>https://sonanlee.com/tags/cdoe/</link>
+      <pubDate>Sun, 30 Jun 2024 09:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/tags/cdoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://sonanlee.com/tags/guide/</link>
+      <pubDate>Sun, 30 Jun 2024 09:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/tags/guide/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://sonanlee.com/tags/blog/</link>
-      <pubDate>Sat, 27 Apr 2024 15:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 May 2024 09:00:00 +0900</pubDate>
       
       <guid>https://sonanlee.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspiring</title>
+      <link>https://sonanlee.com/tags/inspiring/</link>
+      <pubDate>Sat, 04 May 2024 09:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/tags/inspiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://sonanlee.com/tags/portfolio/</link>
+      <pubDate>Sat, 04 May 2024 09:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/tags/portfolio/</guid>
       <description></description>
     </item>
     
@@ -35,15 +80,6 @@
       <pubDate>Sat, 27 Apr 2024 15:00:00 +0000</pubDate>
       
       <guid>https://sonanlee.com/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inspiring</title>
-      <link>https://sonanlee.com/tags/inspiring/</link>
-      <pubDate>Wed, 10 Apr 2024 09:00:00 +0000</pubDate>
-      
-      <guid>https://sonanlee.com/tags/inspiring/</guid>
       <description></description>
     </item>
     
@@ -219,15 +255,6 @@
     </item>
     
     <item>
-      <title>books</title>
-      <link>https://sonanlee.com/tags/books/</link>
-      <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
-      
-      <guid>https://sonanlee.com/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>productmanager</title>
       <link>https://sonanlee.com/tags/productmanager/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
@@ -296,15 +323,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sonanlee.com/tags/about-me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portfolio</title>
-      <link>https://sonanlee.com/tags/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sonanlee.com/tags/portfolio/</guid>
       <description></description>
     </item>
     
