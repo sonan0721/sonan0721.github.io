@@ -9,12 +9,11 @@
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Apr 2024 07:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sonanlee.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>저의 첫 게임 회사 포트폴리오</title>
       <link>https://sonanlee.com/posts/my-first-portfolio/</link>
-      <pubDate>Sat, 27 Apr 2024 07:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sonanlee.com/posts/my-first-portfolio/</guid>
       <description>제 첫번째 포트폴리오는 실패율 100%였습니다. 제가 처음으로 취업을 준비하던 시절, 저는 대략 20개의 게임 회사에 지원서를 썼고, 모두 떨어졌습니다. 사실 지금 생각하면 떨어지는 게 당연했던 것 같습니다. 그때 저의 포트폴리오는 작은 Docs 파일 하나였고, 거기엔 제가 만든 게임 제목과 스크린샷, 그리고 짧은 설명이 한두 줄 있었습니다.
