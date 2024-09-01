@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>portfolio on 소난의 블로그</title>
+    <title>Portfolio on 소난의 블로그</title>
     <link>https://sonanlee.com/tags/portfolio/</link>
-    <description>Recent content in portfolio on 소난의 블로그</description>
+    <description>Recent content in Portfolio on 소난의 블로그</description>
     <image>
       <title>소난의 블로그</title>
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 May 2024 09:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 08:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>게임 개발자를 위한 클론 코딩</title>
+      <link>https://sonanlee.com/posts/howtoclone/</link>
+      <pubDate>Mon, 02 Sep 2024 08:00:00 +0900</pubDate>
+      
+      <guid>https://sonanlee.com/posts/howtoclone/</guid>
+      <description>잘못된 클론 코딩 게임 업계에서 개발자들의 포트폴리오로 자주 나오는 요소는 클론 코딩입니다. 본인이 좋아하는 게임을 만들어보기도 하고, 지원하는 회사와 가장 밀접한 프로젝트를 만들어서 제출하기도 합니다. 물론 아주 잘 만든 분들도 있지만, 대부분은 제출한 클론 코드가 안 좋은 결과를 만드는 경우가 많습니다.
+어떤 경우일까요? 제가 경험한 사례를 좀 공유해보려고 합니다.
+사례 1. 스크린샷뿐인 모작 3년 전쯤 마인크래프트 모작을 제출한 분이 있었습니다.
+마치 마인크래프트처럼 보이는 월드와 블록들이 있는 스크린샷이 있었습니다. 정말 똑같다(?</description>
+    </item>
+    
     <item>
       <title>저의 첫 게임 회사 포트폴리오</title>
       <link>https://sonanlee.com/posts/my-first-portfolio/</link>
