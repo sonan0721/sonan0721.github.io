@@ -1,31 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>about me on 소난의 블로그</title>
+    <title>About Me on 소난의 블로그</title>
     <link>https://sonanlee.com/tags/about-me/</link>
-    <description>Recent content in about me on 소난의 블로그</description>
+    <description>Recent content in About Me on 소난의 블로그</description>
     <image>
       <title>소난의 블로그</title>
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sonanlee.com/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <atom:link href="https://sonanlee.com/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://sonanlee.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/about/</guid>
-      <description>10년이상 게임 개발해왔고, 그중에서 5년이상 팀 매니지먼트 경험을 이끌어왔습니다. 현재는 라인게임즈에서 즐거운 게임 만들고 있습니다.
-좋은 팀이 최고의 프로덕트를 만들 수 있다고 믿고 있습니다. 게임 프로그래밍, 엔지니어링 매니지먼트, 애자일에 관심이 많습니다 자세한 내용은 저의 포트폴리오를 참고해주세요.
-경력과 경험 2024.9 - Now,, 테크니컬 디렉터, 라인게임즈
-바공개 프로젝트
-2021.9 - 2024.2, 클라이언트 팀장, Soma, 직방(Zigbang)
-가상 오피스 Soma, 유니티
-2021.2 - 2021.8, 게임 클라이언트 프로그래머, NR Seed, 엔씨소프트
-미니 버스
-2018.3 - 2021.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://sonanlee.com/images/2020/12/sonanlee.jpg&#34; alt=&#34;Profile&#34;  title=&#34;{width=150}&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;10년이상 게임 개발해왔고, 그중에서 5년이상 팀 매니지먼트 경험을 이끌어왔습니다.
+현재는 라인게임즈에서 즐거운 게임 만들고 있습니다.&lt;/p&gt;
+&lt;p&gt;좋은 팀이 최고의 프로덕트를 만들 수 있다고 믿고 있습니다.
+게임 프로그래밍, 엔지니어링 매니지먼트, 애자일에 관심이 많습니다
+자세한 내용은 저의 &lt;a href=&#34;https://sonanlee.com/portfolio&#34;&gt;포트폴리오&lt;/a&gt;를 참고해주세요.&lt;/p&gt;
+&lt;h2 id=&#34;경력과-경험&#34;&gt;경력과 경험&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;2024.9 - Now,&lt;/strong&gt;, &lt;strong&gt;테크니컬 디렉터&lt;/strong&gt;, 라인게임즈&lt;br&gt;
+바공개 프로젝트&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2021.9 - 2024.2&lt;/strong&gt;, &lt;strong&gt;클라이언트 팀장&lt;/strong&gt;, Soma, 직방(Zigbang)&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=7iLVSo0nUUU&#34;&gt;가상 오피스 Soma&lt;/a&gt;, 유니티&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2021.2 - 2021.8&lt;/strong&gt;, &lt;strong&gt;게임 클라이언트 프로그래머&lt;/strong&gt;, NR Seed, 엔씨소프트&lt;br&gt;
+미니 버스&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2018.3 - 2021.1&lt;/strong&gt;, &lt;strong&gt;엔지니어링 리드&lt;/strong&gt;, 데브캣 스튜디오, 넥슨 코리아&lt;br&gt;
+비공개 프로젝트(개발 취소), 유니티&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

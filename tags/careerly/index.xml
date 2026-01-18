@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>careerly on 소난의 블로그</title>
+    <title>Careerly on 소난의 블로그</title>
     <link>https://sonanlee.com/tags/careerly/</link>
-    <description>Recent content in careerly on 소난의 블로그</description>
+    <description>Recent content in Careerly on 소난의 블로그</description>
     <image>
       <title>소난의 블로그</title>
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 13:39:23 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/careerly/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jun 2021 13:39:23 +0000</lastBuildDate>
+    <atom:link href="https://sonanlee.com/tags/careerly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>커리어리 스킬업과 파이썬 강의를 찍었습니다!</title>
       <link>https://sonanlee.com/posts/careerlyskillup-lecture/</link>
       <pubDate>Sun, 20 Jun 2021 13:39:23 +0000</pubDate>
-      
       <guid>https://sonanlee.com/posts/careerlyskillup-lecture/</guid>
-      <description>안녕하세요. 소난입니다.
-최근 근황 이전에 2021년 배우면 좋은 프로그래밍 언어에서 올해에 언어로 파이썬을 이야기했던 적이 있는데요. 이를 실천하고, 전파하기 위해 이번에 커리어리 스킬업이라는 직장인을 위한 온라인 강의 플랫폼과 함께 파이썬 강의를 찍었습니다 :)
-이 강의를 찍으면서 정말 다른 강사분들을 저절로 존경하게 되더라구요. 정말 &amp;lsquo;지식을 누군가에게 전달한다는 것은 아무나 하는 것이 아니구나&amp;rsquo; 라는 생각이 많이 들었습니다.
-오늘은, 이 강의를 찍으면서 제가 경험했던 내용들이나 강의에 담고 싶었던 내용들을 여러분들에게 공유하고 싶어 이렇게 포스트를 써보려고 합니다 😍</description>
+      <description>&lt;p&gt;안녕하세요. 소난입니다.&lt;/p&gt;
+&lt;h2 id=&#34;최근-근황&#34;&gt;최근 근황&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://sonanlee.com/images/2021/06/image.png&#34; alt=&#34;근황이미지&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;이전에 &lt;a href=&#34;https://sonanlee.com/posts/2021-best-programming-language/&#34;&gt;2021년 배우면 좋은 프로그래밍 언어&lt;/a&gt;에서 올해에 언어로 &lt;strong&gt;파이썬&lt;/strong&gt;을 이야기했던 적이 있는데요. 이를 실천하고, 전파하기 위해 이번에 &lt;a href=&#34;http://skillup.careerly.co.kr&#34;&gt;커리어리 스킬업&lt;/a&gt;이라는 직장인을 위한 온라인 강의 플랫폼과 함께 파이썬 강의를 찍었습니다 :)&lt;/p&gt;
+&lt;p&gt;이 강의를 찍으면서 정말 다른 강사분들을 저절로 존경하게 되더라구요. 정말 &amp;lsquo;지식을 누군가에게 전달한다는 것은 아무나 하는 것이 아니구나&amp;rsquo; 라는 생각이 많이 들었습니다.&lt;/p&gt;
+&lt;p&gt;오늘은, 이 강의를 찍으면서 제가 경험했던 내용들이나 강의에 담고 싶었던 내용들을 여러분들에게 공유하고 싶어 이렇게 포스트를 써보려고 합니다 😍&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

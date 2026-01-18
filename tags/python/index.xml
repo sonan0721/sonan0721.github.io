@@ -1,50 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>python on 소난의 블로그</title>
+    <title>Python on 소난의 블로그</title>
     <link>https://sonanlee.com/tags/python/</link>
-    <description>Recent content in python on 소난의 블로그</description>
+    <description>Recent content in Python on 소난의 블로그</description>
     <image>
       <title>소난의 블로그</title>
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 14:53:45 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jan 2022 14:53:45 +0000</lastBuildDate>
+    <atom:link href="https://sonanlee.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022년 배우면 좋은 프로그래밍 언어</title>
       <link>https://sonanlee.com/posts/2022-best-programming-language/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/posts/2022-best-programming-language/</guid>
-      <description>작년에 작성했던 2021년 배우면 좋은 프로그래밍 언어의 2022년판!!
-올해의 주제는 &amp;ldquo;내가 만약 주니어라면,&amp;rdquo; 이다!
-내가 만약 주니어라면, 어떤 언어를 배우는 게 좋을까? 폭풍처럼 지나간 2021년은 말 그대로 코딩 교육 열풍이였다. 특히 연초에 있었던 개발자 연봉 인상 열풍으로 인해 전공/비전공자 모두 소프트웨어 엔지니어 라는 직종에 많은 관심을 가지게 된 해였다.
-나 또한, 2021년동안 다양한 곳에서 감사하게도 불러주셔서 꽤 많은 강의를 다녔었는데, 취업을 위한 프로그래밍 뿐만 아니라 기술에 대한 지식 습득을 위해 프로그래밍을 배우는 분들도 있었다.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;작년에 작성했던 &lt;a href=&#34;https://sonanlee.com/posts/2021-best-programming-language/&#34;&gt;2021년 배우면 좋은 프로그래밍 언어&lt;/a&gt;의 2022년판!!&lt;/p&gt;
+&lt;p&gt;올해의 주제는 &amp;ldquo;내가 만약 주니어라면,&amp;rdquo; 이다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;내가-만약-주니어라면-어떤-언어를-배우는-게-좋을까&#34;&gt;내가 만약 주니어라면, 어떤 언어를 배우는 게 좋을까?&lt;/h2&gt;
+&lt;p&gt;폭풍처럼 지나간 2021년은 말 그대로 코딩 교육 열풍이였다. 특히 연초에 있었던 개발자 연봉 인상 열풍으로 인해 전공/비전공자 모두 &lt;code&gt;소프트웨어 엔지니어&lt;/code&gt;  라는 직종에 많은 관심을 가지게 된 해였다.&lt;/p&gt;
+&lt;p&gt;나 또한, 2021년동안 다양한 곳에서 감사하게도 불러주셔서 꽤 많은 강의를 다녔었는데, &lt;code&gt;취업을 위한 프로그래밍&lt;/code&gt; 뿐만 아니라 &lt;code&gt;기술에 대한 지식 습득&lt;/code&gt;을 위해 프로그래밍을 배우는 분들도 있었다. 그 관점을 돌이켜보면서 2022년은 &lt;code&gt;내가 만약 주니어라면 어떤 언어를 배우는게 좋을까?&lt;/code&gt; 라는 내용으로 글을 작성 했다.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>커리어리 스킬업과 파이썬 강의를 찍었습니다!</title>
       <link>https://sonanlee.com/posts/careerlyskillup-lecture/</link>
       <pubDate>Sun, 20 Jun 2021 13:39:23 +0000</pubDate>
-      
       <guid>https://sonanlee.com/posts/careerlyskillup-lecture/</guid>
-      <description>안녕하세요. 소난입니다.
-최근 근황 이전에 2021년 배우면 좋은 프로그래밍 언어에서 올해에 언어로 파이썬을 이야기했던 적이 있는데요. 이를 실천하고, 전파하기 위해 이번에 커리어리 스킬업이라는 직장인을 위한 온라인 강의 플랫폼과 함께 파이썬 강의를 찍었습니다 :)
-이 강의를 찍으면서 정말 다른 강사분들을 저절로 존경하게 되더라구요. 정말 &amp;lsquo;지식을 누군가에게 전달한다는 것은 아무나 하는 것이 아니구나&amp;rsquo; 라는 생각이 많이 들었습니다.
-오늘은, 이 강의를 찍으면서 제가 경험했던 내용들이나 강의에 담고 싶었던 내용들을 여러분들에게 공유하고 싶어 이렇게 포스트를 써보려고 합니다 😍</description>
+      <description>&lt;p&gt;안녕하세요. 소난입니다.&lt;/p&gt;
+&lt;h2 id=&#34;최근-근황&#34;&gt;최근 근황&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://sonanlee.com/images/2021/06/image.png&#34; alt=&#34;근황이미지&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;이전에 &lt;a href=&#34;https://sonanlee.com/posts/2021-best-programming-language/&#34;&gt;2021년 배우면 좋은 프로그래밍 언어&lt;/a&gt;에서 올해에 언어로 &lt;strong&gt;파이썬&lt;/strong&gt;을 이야기했던 적이 있는데요. 이를 실천하고, 전파하기 위해 이번에 &lt;a href=&#34;http://skillup.careerly.co.kr&#34;&gt;커리어리 스킬업&lt;/a&gt;이라는 직장인을 위한 온라인 강의 플랫폼과 함께 파이썬 강의를 찍었습니다 :)&lt;/p&gt;
+&lt;p&gt;이 강의를 찍으면서 정말 다른 강사분들을 저절로 존경하게 되더라구요. 정말 &amp;lsquo;지식을 누군가에게 전달한다는 것은 아무나 하는 것이 아니구나&amp;rsquo; 라는 생각이 많이 들었습니다.&lt;/p&gt;
+&lt;p&gt;오늘은, 이 강의를 찍으면서 제가 경험했던 내용들이나 강의에 담고 싶었던 내용들을 여러분들에게 공유하고 싶어 이렇게 포스트를 써보려고 합니다 😍&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2021년 배우면 좋은 프로그래밍 언어</title>
       <link>https://sonanlee.com/posts/2021-best-programming-language/</link>
       <pubDate>Sun, 10 Jan 2021 21:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/posts/2021-best-programming-language/</guid>
-      <description>1 🧡 이 글은 게임 개발자 관점에서 작성된 글입니다. 어떤 언어를 배우는게 좋을까? 2021년을 시작하면서 새로운 언어를 배우려고 조사하는 김에 작성하기 시작했다. 아마도, 게임 프로그래머라면 주로 다루던 언어는 C++/C# 등과 같은 C계열의 언어였을텐데, 조금 새로운 바람이 필요한 분들에게 도움이 되길 기대한다.
-Python TIOBE Index For Python
-대부분의 프로그래밍 언어 랭킹 사이트에서 파이썬은 압도적으로 높은 순위를 자랑한다. 2021년 1월 현재 PYPL 1위, TOIBE 3위로 랭크되어 있으며, 이제 프로그래머라면 반드시 알아야하는 언어가 되었다.</description>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;🧡 이 글은 게임 개발자 관점에서 작성된 글입니다.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;어떤-언어를-배우는게-좋을까&#34;&gt;어떤 언어를 배우는게 좋을까?&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://sonanlee.com/images/2021/01/image-4.png?w=757&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;2021년을 시작하면서 새로운 언어를 배우려고 조사하는 김에 작성하기 시작했다. 아마도, 게임 프로그래머라면 주로 다루던 언어는 C++/C# 등과 같은 C계열의 언어였을텐데, 조금 새로운 바람이 필요한 분들에게 도움이 되길 기대한다.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://sonanlee.com/images/2021/01/new-1.png?w=1024&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://sonanlee.com/images/2021/01/image-1.png?w=948&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;TIOBE Index For Python&lt;/p&gt;
+&lt;p&gt;대부분의 프로그래밍 언어 랭킹 사이트에서 파이썬은 압도적으로 높은 순위를 자랑한다. 2021년 1월 현재 &lt;a href=&#34;https://pypl.github.io/PYPL.html&#34;&gt;PYPL&lt;/a&gt; 1위, &lt;a href=&#34;https://www.tiobe.com/tiobe-index/&#34;&gt;TOIBE&lt;/a&gt; 3위로 랭크되어 있으며, 이제 프로그래머라면 반드시 알아야하는 언어가 되었다. 파이썬은 매우 풍부한 라이브러리를 갖고 있을 뿐만 아니라, &lt;code&gt;AI&lt;/code&gt;, &lt;code&gt;ML&lt;/code&gt;등에서 적극적으로 사용한다. 또한 웹 서버 개발(&lt;code&gt;Django&lt;/code&gt;, &lt;code&gt;Flask&lt;/code&gt;)로도 많이 사용된다.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

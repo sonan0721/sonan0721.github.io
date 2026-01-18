@@ -9,331 +9,261 @@
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 08:00:00 +0900</lastBuildDate><atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Sep 2024 08:00:00 +0900</lastBuildDate>
+    <atom:link href="https://sonanlee.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>https://sonanlee.com/tags/blog/</link>
       <pubDate>Mon, 02 Sep 2024 08:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CloneCoding</title>
       <link>https://sonanlee.com/tags/clonecoding/</link>
       <pubDate>Mon, 02 Sep 2024 08:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/clonecoding/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Portfolio</title>
       <link>https://sonanlee.com/tags/portfolio/</link>
       <pubDate>Mon, 02 Sep 2024 08:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/portfolio/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>books</title>
+      <title>Books</title>
       <link>https://sonanlee.com/tags/books/</link>
       <pubDate>Sun, 30 Jun 2024 09:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/books/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cdoe</title>
+      <title>Cdoe</title>
       <link>https://sonanlee.com/tags/cdoe/</link>
       <pubDate>Sun, 30 Jun 2024 09:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/cdoe/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guide</title>
+      <title>Guide</title>
       <link>https://sonanlee.com/tags/guide/</link>
       <pubDate>Sun, 30 Jun 2024 09:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/guide/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>inspiring</title>
+      <title>Inspiring</title>
       <link>https://sonanlee.com/tags/inspiring/</link>
       <pubDate>Sat, 04 May 2024 09:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/inspiring/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lecture</title>
+      <title>Lecture</title>
       <link>https://sonanlee.com/tags/lecture/</link>
       <pubDate>Sat, 27 Apr 2024 15:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/lecture/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>react</title>
+      <title>React</title>
       <link>https://sonanlee.com/tags/react/</link>
       <pubDate>Sat, 27 Apr 2024 15:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/react/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>engineering</title>
+      <title>Engineering</title>
       <link>https://sonanlee.com/tags/engineering/</link>
       <pubDate>Mon, 29 Jan 2024 09:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/engineering/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>teamwork</title>
+      <title>Teamwork</title>
       <link>https://sonanlee.com/tags/teamwork/</link>
       <pubDate>Mon, 29 Jan 2024 09:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/teamwork/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>leadership</title>
+      <title>Leadership</title>
       <link>https://sonanlee.com/tags/leadership/</link>
       <pubDate>Mon, 15 Jan 2024 09:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/leadership/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>organizational-culture</title>
+      <title>Organizational-Culture</title>
       <link>https://sonanlee.com/tags/organizational-culture/</link>
       <pubDate>Mon, 15 Jan 2024 09:00:00 +0900</pubDate>
-      
       <guid>https://sonanlee.com/tags/organizational-culture/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>politics</title>
+      <title>Politics</title>
       <link>https://sonanlee.com/tags/politics/</link>
       <pubDate>Mon, 10 Oct 2022 12:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/politics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dart</title>
+      <title>Dart</title>
       <link>https://sonanlee.com/tags/dart/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/dart/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>developer</title>
+      <title>Developer</title>
       <link>https://sonanlee.com/tags/developer/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/developer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>flutter</title>
+      <title>Flutter</title>
       <link>https://sonanlee.com/tags/flutter/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/flutter/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>javascript</title>
+      <title>Javascript</title>
       <link>https://sonanlee.com/tags/javascript/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/javascript/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>programming</title>
+      <title>Programming</title>
       <link>https://sonanlee.com/tags/programming/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/programming/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://sonanlee.com/tags/python/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>reactnative</title>
+      <title>Reactnative</title>
       <link>https://sonanlee.com/tags/reactnative/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/reactnative/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thinking</title>
+      <title>Thinking</title>
       <link>https://sonanlee.com/tags/thinking/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/thinking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>typescript</title>
+      <title>Typescript</title>
       <link>https://sonanlee.com/tags/typescript/</link>
       <pubDate>Tue, 25 Jan 2022 14:53:45 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/typescript/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>careerly</title>
+      <title>Careerly</title>
       <link>https://sonanlee.com/tags/careerly/</link>
       <pubDate>Sun, 20 Jun 2021 13:39:23 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/careerly/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>framework</title>
+      <title>Framework</title>
       <link>https://sonanlee.com/tags/framework/</link>
       <pubDate>Sun, 25 Apr 2021 02:15:08 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/framework/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>productmanagement</title>
+      <title>Productmanagement</title>
       <link>https://sonanlee.com/tags/productmanagement/</link>
       <pubDate>Sun, 25 Apr 2021 02:15:08 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/productmanagement/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>gamedevelopment</title>
+      <title>Gamedevelopment</title>
       <link>https://sonanlee.com/tags/gamedevelopment/</link>
       <pubDate>Fri, 02 Apr 2021 15:00:21 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/gamedevelopment/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>management</title>
+      <title>Management</title>
       <link>https://sonanlee.com/tags/management/</link>
       <pubDate>Fri, 02 Apr 2021 15:00:21 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/management/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>productmanager</title>
+      <title>Productmanager</title>
       <link>https://sonanlee.com/tags/productmanager/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/productmanager/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>productowner</title>
+      <title>Productowner</title>
       <link>https://sonanlee.com/tags/productowner/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/productowner/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vision</title>
+      <title>Vision</title>
       <link>https://sonanlee.com/tags/vision/</link>
       <pubDate>Wed, 13 Jan 2021 21:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/vision/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>innovation</title>
+      <title>Innovation</title>
       <link>https://sonanlee.com/tags/innovation/</link>
       <pubDate>Fri, 18 Dec 2020 07:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/innovation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>파이어족</title>
       <link>https://sonanlee.com/tags/%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%A1%B1/</link>
       <pubDate>Fri, 18 Dec 2020 07:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%A1%B1/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>amazon</title>
+      <title>Amazon</title>
       <link>https://sonanlee.com/tags/amazon/</link>
       <pubDate>Sat, 12 Dec 2020 08:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/amazon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dogfooding</title>
+      <title>Dogfooding</title>
       <link>https://sonanlee.com/tags/dogfooding/</link>
       <pubDate>Sat, 12 Dec 2020 08:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/dogfooding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>about me</title>
+      <title>About Me</title>
       <link>https://sonanlee.com/tags/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/tags/about-me/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

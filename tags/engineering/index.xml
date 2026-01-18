@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>engineering on 소난의 블로그</title>
+    <title>Engineering on 소난의 블로그</title>
     <link>https://sonanlee.com/tags/engineering/</link>
-    <description>Recent content in engineering on 소난의 블로그</description>
+    <description>Recent content in Engineering on 소난의 블로그</description>
     <image>
       <title>소난의 블로그</title>
       <url>https://sonanlee.com/images/main/sonanlee.jpg</url>
       <link>https://sonanlee.com/images/main/sonanlee.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Jan 2024 09:00:00 +0000</lastBuildDate><atom:link href="https://sonanlee.com/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jan 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sonanlee.com/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>엔지니어링 문화를 만들 때 중요한 3가지</title>
       <link>https://sonanlee.com/posts/most-important-things-for-swe/</link>
       <pubDate>Mon, 29 Jan 2024 09:00:00 +0000</pubDate>
-      
       <guid>https://sonanlee.com/posts/most-important-things-for-swe/</guid>
-      <description>오늘은 제가 소프트웨어 엔지니어팀 문화를 만들면서 배웠던, 제가 생각하는 가장 중요한 3가지를 공유하고자 합니다. 이 글이 이제 막 개발팀 시니어나, 팀장이 되는 분들에게 도움이 되면 좋겠습니다.
-저는 대략 3번정도 엔지니어링 팀을 이끌면서 다양한 시도를 해왔다고 생각합니다(?)
-엄청나게 빡세게 코드리뷰를 하기도하고, 비자아적 프로그래밍을 추구해보자고 하면서 코드 비판을 감정 없이(?) 주고받은 적도 있습니다.(그리고 감정이 상했죠..하하하)
-그러한 시행착오 끝에 찾은 저에게 적합한 &amp;ldquo;엔지니어링 문화를 만들 때 중요한 3가지&amp;rdquo; 를 이야기해 보고자 합니다.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://sonanlee.com/images/2024/01/swe.png&#34; alt=&#34;&#34;  /&gt;
+
+오늘은 제가 소프트웨어 엔지니어팀 문화를 만들면서 배웠던, 제가 생각하는 가장 중요한 3가지를 공유하고자 합니다. 이 글이 이제 막 개발팀 시니어나, 팀장이 되는 분들에게 도움이 되면 좋겠습니다.&lt;/p&gt;
+&lt;p&gt;저는 대략 3번정도 엔지니어링 팀을 이끌면서 다양한 시도를 해왔다고 생각합니다(?)&lt;br&gt;
+엄청나게 빡세게 코드리뷰를 하기도하고, 비자아적 프로그래밍을 추구해보자고 하면서 코드 비판을 감정 없이(?) 주고받은 적도 있습니다.(그리고 감정이 상했죠..하하하)&lt;/p&gt;
+&lt;p&gt;그러한 시행착오 끝에 찾은 저에게 적합한 &lt;strong&gt;&amp;ldquo;엔지니어링 문화를 만들 때 중요한 3가지&amp;rdquo;&lt;/strong&gt; 를 이야기해 보고자 합니다.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
